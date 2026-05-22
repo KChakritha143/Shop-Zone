@@ -69,12 +69,16 @@ npm run dev
 ### Screenshots
 # Home Page
 <img width="1919" height="1028" alt="Screenshot 2026-05-22 210928" src="https://github.com/user-attachments/assets/df9a38f9-d475-4e17-a721-37140856dbd9" />
+
 # Shop Page
 <img width="1899" height="1027" alt="Screenshot 2026-05-22 210941" src="https://github.com/user-attachments/assets/3fce3d6f-75ef-4236-8dcc-906b07a3dd9e" />
+
 # Product Details
 <img width="1910" height="1029" alt="Screenshot 2026-05-22 211047" src="https://github.com/user-attachments/assets/4d90b110-650e-489e-84e8-c9065c70b7f9" />
+
 # Contact Page
 <img width="1919" height="1030" alt="Screenshot 2026-05-22 210954" src="https://github.com/user-attachments/assets/f911c844-a501-450d-b90b-21fd95d0668e" />
+
 # Cart Page
 <img width="1918" height="1022" alt="Screenshot 2026-05-22 211102" src="https://github.com/user-attachments/assets/11bdacef-6dcb-47ee-8bfe-b110f7c5fd61" />
 
